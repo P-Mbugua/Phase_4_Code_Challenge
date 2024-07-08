@@ -1,0 +1,3 @@
+{
+  "Flask application in app.py creates one restaurant_pizzas using a pizza_id, restaurant_id, and price with a POST request to /restaurant_pizzas.": true
+}

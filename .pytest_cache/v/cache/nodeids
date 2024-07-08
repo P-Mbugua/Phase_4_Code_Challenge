@@ -1,0 +1,13 @@
+[
+  "Class RestaurantPizza in models.py requires price between 1 and 30 and fails when price is 0.",
+  "Class RestaurantPizza in models.py requires price between 1 and 30 and fails when price is 31.",
+  "Class RestaurantPizza in models.py requires price between 1 and 30.",
+  "Flask application in app.py creates one restaurant_pizzas using a pizza_id, restaurant_id, and price with a POST request to /restaurant_pizzas.",
+  "Flask application in app.py deletes restaurant with DELETE request to /restaurants/<int:id>.",
+  "Flask application in app.py retrieves one restaurant using its ID with GET request to /restaurants/<int:id>.",
+  "Flask application in app.py retrieves pizzas with GET request to /pizzas",
+  "Flask application in app.py retrieves restaurants with GET request to /restaurants",
+  "Flask application in app.py returns a 400 status code and error message if a POST request to /restaurant_pizzas fails.",
+  "Flask application in app.py returns an error message and 404 status code with DELETE request to /restaurants/<int:id> by a non-existent ID.",
+  "Flask application in app.py returns an error message and 404 status code with GET request to /restaurants/<int:id> by a non-existent ID."
+]
